@@ -1,0 +1,15 @@
+p {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#n2 {
+    color: #00f;
+    font-size: 36px;
+}
+#n4 {
+    background-color: #ada;
+    font-weight: bold;
+}
+.size24 {
+    font-size: 24px;
+}
